@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="backgroundColor">#FF9800</color>
+    <color name="cardColor">#2196F3</color>
+    <color name="textColor">#ffff</color>
+    <color name="textBackground">#F0B70B</color>
+    <color name="orchidColor">#2196F3</color>
+
+</resources>
